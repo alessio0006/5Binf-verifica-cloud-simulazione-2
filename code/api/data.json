@@ -1,3 +1,17 @@
 {
-    
+    "cardList": [
+        {
+            "imgUrl":"img/moodle.png",
+            "imgAlt":"Moodle",
+            "title":"Moodle",
+            "text":"Moodle della scuola, con il materiale dei docenti e la consegna dei compiti in classe online.",
+            "linkButton":"Moodle"
+        },{
+            "imgUrl":"img/github.png",
+            "imgAlt":"GitHub",
+            "title":"GitHub",
+            "text":"Pagina con i progetti della scuola, sul sito ufficiale di github.com.",
+            "linkButton":"https://github.com/marconicivitavecchia"
+        }
+    ]
 }
